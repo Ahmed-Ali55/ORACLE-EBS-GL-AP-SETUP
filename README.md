@@ -355,7 +355,7 @@ Screenshots
 
 ![](AP%20SETUP/payable%20options%201.jpg)
 
-![](AP%20SETUP/payable%20options%202.jpg)
+![](AP%20SETUP/payable%20option%202.jpg)
 
 ---
 
@@ -448,73 +448,6 @@ Screenshot
 - Invoice Processing
 - Journal Entries
 
----
-
-# Project Structure
-
-`
-ORACLE EBS GL&AP SETUP
-│
-├── GL SETUP
-│   ├── account inquiry
-│   ├── account summary balance
-│   ├── account value set
-│   ├── budget org
-│   ├── budgetry control
-│   ├── calendar type
-│   ├── coa company vs
-│   ├── coa key flexfield segment
-│   ├── coa segment values
-│   ├── coa sub acc vs
-│   ├── copy gl responsibility
-│   ├── daily rate
-│   ├── define acc calendar
-│   ├── define budget
-│   ├── define recuring journal
-│   ├── define sequence
-│   ├── depart value set
-│   ├── enter journal
-│   ├── fsg acc assignment row set
-│   ├── fsg column set
-│   ├── fsg report
-│   ├── fsg row set
-│   ├── journals
-│   ├── ledger advanced option
-│   ├── ledger definition
-│   ├── ledger option
-│   ├── ledger review
-│   ├── ledger translate
-│   ├── open period
-│   ├── recuring journal line
-│   ├── reporting currency
-│   ├── requests
-│   ├── rollup group
-│   ├── summary account
-│   ├── summary balances
-│   ├── translated ledger responsibility
-│   ├── usd journal
-│   ├── usd ledger open period
-│   └── user and responsibility assignment
-│
-└── AP SETUP
-    ├── ap journal info
-    ├── assign operating unit
-    ├── distribution set
-    ├── financial option setup
-    ├── financial options2
-    ├── gl assign
-    ├── inv entry
-    ├── inv org definition
-    ├── inventory parameter
-    ├── open payable period
-    ├── org param cost info
-    ├── org parameter
-    ├── org parameter accounts
-    ├── payable options 1
-    ├── payable options 2
-    ├── rep seed data request
-    └── release for error handle
-`
 
 ---
 
