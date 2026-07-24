@@ -60,7 +60,10 @@ Screenshots
 
 ![](GL%20SETUP/reporting%20currency.jpg)
 
-![](GL%20SETUP/translated%20ledger%20responsibility.jpg)
+![](GL%20SETUP/translated%20ledger%20resbonsibility.jpg)
+
+![](GL%20SETUP/enable%20currency.jpg)
+
 
 ---
 
@@ -123,6 +126,8 @@ Screenshots
 ![](GL%20SETUP/coa%20sub%20acc%20vs.jpg)
 
 ![](GL%20SETUP/coa%20segment%20values.jpg)
+
+![](GL%20SETUP/coa%20depart%20values.jpg)
 
 ---
 
@@ -515,8 +520,8 @@ ORACLE EBS GL&AP SETUP
 
 # Author
 
-Ahmed Mokrani
+Ahmed Ali
 
 Faculty of Commerce (English) – Accounting Graduate
 
-Oracle EBS Financial Consultant (Junior)s
+Oracle EBS Financial Consultant 
