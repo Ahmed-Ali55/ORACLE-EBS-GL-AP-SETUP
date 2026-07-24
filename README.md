@@ -108,7 +108,7 @@ Screenshots
 
 Screenshot
 
-![](GL%20SETUP/coa%20key%20flexfield.%20segment.jpg)
+![](GL%20SETUP/coa%20key%20flexfield%20segment.jpg)
 
 ---
 
